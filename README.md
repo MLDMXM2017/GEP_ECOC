@@ -79,4 +79,3 @@ This is the implementation for paper: [An Adaptive Error-Correcting Output Codes
    In this Mode, part of the result will be printed on the terminal. You can find all result in the Results folder.
    But, there will be no automatic analyzing. 
 
-# GEP_ECOC_test
